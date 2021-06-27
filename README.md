@@ -3,3 +3,5 @@
 ### pid_sample_code.py
 >對linux的cpu中提升program的優先度
 
+### listComport.py
+> list all avalibale comport (cross platform)
